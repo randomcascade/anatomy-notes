@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "204c10b0e80f2bb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "600f93f1305dd489",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72a36782d4419722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Heart.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Heart"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93ab376ba7d701ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "88fc807c0755a274",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a09d1877e9a174f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e06ef6a1f91a6c07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "05f56a5096a3cd89",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d61cae451d949f72",
+    "type": "split",
+    "children": [
+      {
+        "id": "b21d361c7ac3b7d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06d4c9a68402c1ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Heart.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Heart"
+            }
+          },
+          {
+            "id": "52dd3f06c20061e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Heart.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Heart"
+            }
+          },
+          {
+            "id": "c23d52e14638dc16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b6b24a5486ea90d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Heart.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Heart"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "bases:Create new base": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a09d1877e9a174f1",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Blood.md",
+    "create a link.md",
+    "The Heart.md",
+    "assets/2027_Phases_of_the_Cardiac_Cycle.jpg",
+    "Diagram_of_the_human_heart_(cropped).svg",
+    "assets/Diagram_of_the_human_heart_(cropped).svg",
+    "assets"
+  ]
+}
